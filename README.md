@@ -46,7 +46,7 @@ Struktur direktori pada folder lib disusun sebagai berikut:
 ## Distribusi
 
 File instalasi APK dapat diunduh pada halaman Release:
-https://github.com/ramdanolii14/myokane/releases/download/v3.0.0/app-release.apk
+https://github.com/ramdanolii14/myokane/releases
 
 ---
 
